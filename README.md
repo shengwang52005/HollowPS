@@ -77,3 +77,10 @@ can, please include steps to reproduce the bug.
 Bad issues such as "This doesn't work" will be closed immediately, be _sure_ to
 provide exact detailed steps to reproduce your bug. If it's hard to reproduce, try
 to explain it and write a reproducer as best as you can.
+
+## Disclaimers
+
+This repository has been cloned [xeondev git](https://git.xeondev.com/reversedrooms/HollowPS)
+
+The content has complied with the GPL 3.0 protocol
+Source repository: https://git.xeondev.com/reversedrooms/HollowPS
